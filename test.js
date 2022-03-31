@@ -1,4 +1,4 @@
-// on charge les env vars
+
 const dotenv = require('dotenv');
 dotenv.config();
 
